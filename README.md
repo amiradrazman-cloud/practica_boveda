@@ -27,7 +27,7 @@ Este ejercicio integra los conceptos de **Gestión de Identidad** (gestor de con
 ![Bitwarden - Bóveda](docsimagescaptura1_boveda_bitwarden.png.png)
 
 #### Captura 2: Panel de seguridad con el MFA activo
-![Bitwarden - MFA Activo](docs/images/captura2_mfa_bitwarden.png)
+![Bitwarden - MFA Activo](docsimagescaptura2_mfa_bitwarden.png.png)
 
 ---
 
