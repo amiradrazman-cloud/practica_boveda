@@ -24,7 +24,7 @@ Este ejercicio integra los conceptos de **Gestión de Identidad** (gestor de con
 ### Capturas de Pantalla
 
 #### Captura 1: Bóveda con los nombres de las 3 cuentas de ejemplo (sin contraseñas visibles)
-![Bitwarden - Bóveda](docs/images/captura1_boveda_bitwarden.png)
+![Bitwarden - Bóveda](docsimagescaptura1_boveda_bitwarden.png.png)
 
 #### Captura 2: Panel de seguridad con el MFA activo
 ![Bitwarden - MFA Activo](docs/images/captura2_mfa_bitwarden.png)
