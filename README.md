@@ -50,7 +50,7 @@ ightarrow$ **"Create an encrypted file container"**.
 3. Se desmontó el volumen (*Unmount*), verificando que la unidad desaparece del explorador de archivos.
 
 ### Captura 3: VeraCrypt con el volumen montado y la letra de unidad asignada
-![VeraCrypt - Volumen Montado](docs/images/captura3_veracrypt_montado.png)
+![VeraCrypt - Volumen Montado](docsimagescaptura3_veracrypt_montado.png.jpeg)
 
 ---
 
